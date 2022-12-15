@@ -1,0 +1,27 @@
+.aboutme{
+    padding-top: 3%;
+    font-size: medium;
+    color: white;
+}
+
+.intro-card{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    padding-bottom: 5rem;
+}
+
+.introcard{
+    background-color: #1a1919;
+    padding: 1.2rem 1rem;
+    border-radius: 25px;
+    /* text-align: start; */
+
+}
+
+.skills{
+    /* background-color: ; */
+    display: flex;
+    padding: 1rem;
+}
+

@@ -18,7 +18,7 @@
 }
 
 .my-img{
-    width: 40%;
+    width: 35%;
     border-radius: 50%;
     display: block;
     margin-left: auto;
@@ -38,16 +38,19 @@
 
 }
 
+.hero .content h2{
+    font-size: x-large;
+}
 .hero .content p{
     font-size: 0.7rem;
     font-weight: 400;
     padding: 0.5rem;
-    text-transform: uppercase;
+    /* text-transform: upper; */
 }
 
 @media screen and (max-width: 640px) {
     .hero .content h1{
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 
     .hero .content p{

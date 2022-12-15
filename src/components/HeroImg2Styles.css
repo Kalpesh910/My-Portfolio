@@ -1,0 +1,54 @@
+.hero-img{
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    /* height: 60vh; */
+    position: relative;
+}
+
+/* .hero-img::before{
+    content:  ;
+} */
+.mask{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.intro-img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+
+.heading{
+    width: 100%;
+    height: 100%;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-img h1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    text-align: center;
+    font-size: 1.7rem;
+}
+
+.hero-img p{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 640px) {
+    .hero-img h1{
+        font-size: 1.2rem;
+    }
+}
