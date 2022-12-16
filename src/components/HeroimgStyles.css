@@ -42,10 +42,9 @@
     font-size: x-large;
 }
 .hero .content p{
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     font-weight: 400;
     padding: 0.5rem;
-    /* text-transform: upper; */
 }
 
 @media screen and (max-width: 640px) {

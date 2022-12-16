@@ -20,7 +20,12 @@ function Intro_Card() {
       
       </div>     
       <div className="skills">
-        <p>C++</p>  <p>React js</p>  <p>Java</p>
+        ✨ C++ &nbsp; &nbsp; 
+        ✨ DSA &nbsp; &nbsp; 
+        ✨ MongoDB &nbsp; &nbsp;
+        ✨ MySQL &nbsp; &nbsp;
+        ✨ React js &nbsp; &nbsp; 
+        ✨ Javascript &nbsp; &nbsp; 
       </div>
     </div>
   )

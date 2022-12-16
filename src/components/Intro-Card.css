@@ -20,8 +20,10 @@
 }
 
 .skills{
-    /* background-color: ; */
     display: flex;
     padding: 1rem;
+    color: aqua;
 }
+
+
 
